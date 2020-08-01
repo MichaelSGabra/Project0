@@ -3,6 +3,8 @@
 #### 4 types of loops
 // for, while, do...while.., foreach
 
+// ramy comment
+
 /*
 for loop
 @params - init, condition, inc
