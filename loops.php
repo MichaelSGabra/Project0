@@ -1,6 +1,6 @@
 <?php
 
-#### 4 types of loops !!
+#### 4 types of loops !!!
 // for, while, do...while.., foreach
 
 // ramy comment
@@ -16,6 +16,7 @@ for ($i = 0;$i <= 10;$i++){
 	echo '<br> '; // line break; 
 }
 
+# testing branching in git .....
 
 
 # while loop
